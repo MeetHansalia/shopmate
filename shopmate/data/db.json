@@ -15,17 +15,23 @@
     
         {
             "id": 10003,
-            "name": "Shopmate",
+            "name": "Complete Guide to Backend Developer",
             "price": 49,
-            "in_stock": true
+            "in_stock": false
         },
         {
             "id": 10004,
             "name": "Build a Blockchain from Scrach in Go",
             "price": 19,
             "in_stock": false
+        },
+        {
+            "id": 10005,
+            "name": "Build a Blockchain from Scrach in React",
+            "price": 19,
+            "in_stock": false
         }
     
-    ],
-    "featured_products": [{}]
+    ]
+   
 }
